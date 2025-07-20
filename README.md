@@ -40,12 +40,14 @@ Building data models and establishing relationships between campaign dimensions
 
 Using DAX functions to calculate custom KPIs and performance metrics.
 
-<img width="716" height="400" alt="image" src="https://github.com/user-attachments/assets/5b27f72f-a7d7-4f81-8df0-e97844f68f74" />
-
-
-
 Designing dashboards with a business-first mindset, focusing on usability and clarity
 
 Conveying actionable insights to support data-driven decisions.
+
+<img width="716" height="400" alt="image" src="https://github.com/user-attachments/assets/5b27f72f-a7d7-4f81-8df0-e97844f68f74" />
+<img width="716" height="404" alt="image" src="https://github.com/user-attachments/assets/a4cb75d8-8a92-4595-8346-d322832c4328" />
+<img width="727" height="401" alt="image" src="https://github.com/user-attachments/assets/e4b93fd7-cfff-4b54-a703-7d999e2c54e8" />
+
+
 
 
