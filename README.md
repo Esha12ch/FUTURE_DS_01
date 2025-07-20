@@ -38,7 +38,11 @@ Users can analyze patterns and trends by selecting specific filters to personali
 🧠 What I Learned
 Building data models and establishing relationships between campaign dimensions
 
-Using DAX functions to calculate custom KPIs and performance metrics
+Using DAX functions to calculate custom KPIs and performance metrics.
+
+<img width="716" height="400" alt="image" src="https://github.com/user-attachments/assets/5b27f72f-a7d7-4f81-8df0-e97844f68f74" />
+
+
 
 Designing dashboards with a business-first mindset, focusing on usability and clarity
 
